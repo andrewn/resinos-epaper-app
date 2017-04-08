@@ -1,0 +1,10 @@
+local_resinos:
+  app-name: epaper-app
+  build-triggers:
+    - Dockerfile: 8c614901b0ca919672e3ef4ef00dadce4db8fe7f7f307999e914911e8964b7c4
+    - package.json: 1e40740d7cf5018cf887124ee75917eb139d49473c51464580feda247b3a4641
+  environment: []
+ignore:
+  - .git
+  - node_modules/
+destination: /usr/src/app

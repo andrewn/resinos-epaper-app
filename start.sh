@@ -14,6 +14,6 @@ fi
 echo "Starting epd-fuse service"
 service epd-fuse start
 
-echo "Starting clock, since the CMD was empty: ($@)"
-cd /epaper/gratis/PlatformWithOS/demo
-python DrawDemo.py
+echo "Starting..."
+cd /usr/src/app
+python calendar.py

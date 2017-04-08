@@ -1,7 +1,7 @@
 local_resinos:
   app-name: epaper-app
   build-triggers:
-    - Dockerfile: 8c614901b0ca919672e3ef4ef00dadce4db8fe7f7f307999e914911e8964b7c4
+    - Dockerfile: 3cd827c8c3c9dd7f059832c3673e681c1a30d1180fde0f94be3fe51d67456bd3
     - package.json: 1e40740d7cf5018cf887124ee75917eb139d49473c51464580feda247b3a4641
   environment: []
 ignore:

@@ -2,6 +2,8 @@
 
 Docker base for an epaper app based on https://github.com/jayniz/embeddedartists-epaper-raspberry-docker.
 
+https://github.com/resin-io-playground/resinos-sample
+
 ## Deploy to ResinOS
 
 This is a small "Hello, World!" webserver example which is designed to show you how to quickly get up and running with [`rdt`](https://github.com/resin-os/resin-device-toolbox) and .
